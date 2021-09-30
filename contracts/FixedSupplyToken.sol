@@ -1,8 +1,8 @@
-pragma solidity ^0.4.8;
+pragma solidity ^0.7.0;
 
 // ----------------------------------------------------------------------------------------------
 // Sample fixed supply token contract
-// Enjoy. (c) BokkyPooBah 2017. The MIT Licence.
+// Enjoy.The MIT Licence.
 // ----------------------------------------------------------------------------------------------
 
 
