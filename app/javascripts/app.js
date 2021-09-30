@@ -1,4 +1,4 @@
-//import jquery and bootstrap
+//Import Jquery and Bootstrap
 import 'jquery';
 import 'bootstrap-loader';
 // Import the page's CSS. Webpack will know what to do with it.
